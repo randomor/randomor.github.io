@@ -17,6 +17,30 @@ body a {
     color: #FFF;
     background-color: #000;
 }
+.tinypeep.top{
+    transform:rotate(180deg);
+    -ms-transform:rotate(180deg); /* IE 9 */
+    -moz-transform:rotate(180deg); /* Firefox */
+    -webkit-transform:rotate(180deg); /* Safari and Chrome */
+    -o-transform:rotate(180deg); /* Opera */
+    position: fixed;
+    top: -40px;
+    transition: all 0.3s;
+    -moz-transition: all 0.3s; /* Firefox 4 */
+    -webkit-transition: all 0.3s; /* Safari and Chrome */
+    -o-transition: all 0.3s; /* Opera */
+}
+
+.tinypeep.top.out{
+    top: -20px;
+    transition: all 0.1s;
+    -moz-transition: all 0.1s; /* Firefox 4 */
+    -webkit-transition: all 0.1s; /* Safari and Chrome */
+    -o-transition: all 0.1s; /* Opera */
+}
+.tinypeep.top.hide{
+    top: -80px;
+}
 #hello {
     font-size: 4em;
     color: #000;
