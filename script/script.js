@@ -27,7 +27,7 @@ $(function() {
         setTimeout(update, 5000);
 
         var timeout;
-        $(document).mousemove(function(e){
+        $(document).bind('mousemove scroll', function(e){
             if (counter){
                 $(".tinypeep").addClass("hide").delay(1000, "myQueue").queue("myQueue", function(){ 
                     $(this).remove()}).dequeue("myQueue");
