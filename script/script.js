@@ -49,27 +49,45 @@ $(function() {
                 return false;
             });    
 
-            $.getJSON("https://twitter.com/statuses/user_timeline/randomor.json?callback=?&count=5", function(tweets){
-                var $twitter = $("#twitter ul");
-                $.each(tweets, function(i, tweet){
-                    tweet = processTweet(tweet);
-                    $twitter.append(tweet);
-                })
-            })
+            // $.getJSON("https://twitter.com/statuses/user_timeline/randomor.json?callback=?&count=5", function(tweets){
+            //     var $twitter = $("#twitter ul");
+            //     $.each(tweets, function(i, tweet){
+            //         tweet = processTweet(tweet);
+            //         $twitter.append("hi there");
+            //     })
+            // })
+
+            // test comment
+
+            $.ajax({
+                type:"GET",
+                dataType:"jsonp",
+                url:"http://search.twitter.com/search.json?q=from:randomor",
+                success:function(r){
+                    var $twitter = $("#twitter ul");
+                    var tweets = r.results;
+                    $.each(tweets, function(i, tweet){
+                        tweet = processTweet(tweet);
+                        $twitter.append(tweet);
+                    })
+                    $twitter.append('<a href="http://twitter.com/randomor/" class="twitter-link">MORE &gt;&gt;</a>')
+                }
+            });
+
 
             var processTweet = function(tweet){
                 tweetDate = processDate(tweet.created_at);
                 linkedText = parseLink(tweet.text);
 
-                var tweetText = '<li class="twitter-item"> <span class="twitter-timestamp"><abbr title="' + tweetDate + '">' + tweetDate + '</abbr></span> ' + linkedText + ' <a href="http://twitter.com/randomor/statuses/' + tweet.id + '" class="twitter-link">&gt;&gt;</a></li>';
+                var tweetText = '<li class="twitter-item"> <span class="twitter-timestamp"><abbr title="' + tweetDate + '">' + tweetDate + '</abbr></span> ' + linkedText + ' </li>';
                 return tweetText;
-            }
+            };
 
             var processDate = function(date){
                 var d = new Date(date);
 
-                return d.getDay()+"/"+d.getMonth()+"/"+d.getFullYear();
-            }
+                return d.getDate()+"/"+d.getMonth()+"/"+d.getFullYear();
+            };
 
             var parseLink = function(text){
                 // parse urls
