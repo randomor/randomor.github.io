@@ -71,38 +71,18 @@ h2 {text-align: center;}
     margin-right: auto;
     margin-left: auto;
     width: 24em;
-    border: dashed;
-    border-color: #000;
-    font-family: "Courier New", Courier, monospace;		
+    border-top: dashed;
+    border-color: #ccc;
+    font-family: "Courier New", Courier, monospace;
 }
 #flickr img {
     height: 8em;
     width: 8em;
 }
 
-#twitter {
-    font-size: 3em;
-    width: 22em;
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 0em;
-    border: medium dashed #000;
-    margin-top: 1em;
-    padding: 1em;
-    margin-bottom: 1em;
-    font-family: "Courier New", Courier, monospace;
+#content {
+    margin: 10em 0;
 }
-#twitter li {
-    text-align: left;
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-}
-#twitter li span {
-    color: #FFF;
-    background-color: #000;
-}
-
 .footer {
     background-color: #F9F9F4;
     width: 960px
