@@ -62,23 +62,8 @@ body a {
     
 }
 
-#flickr h2{margin: 1em;}
-
 h2 {text-align: center;}
 
-#flickr {
-		font-size: 3em;
-    margin-right: auto;
-    margin-left: auto;
-    width: 24em;
-    border-top: dashed;
-    border-color: #ccc;
-    font-family: "Courier New", Courier, monospace;
-}
-#flickr img {
-    height: 8em;
-    width: 8em;
-}
 
 #content {
     margin: 10em 0;
