@@ -3,13 +3,13 @@
 I'm Shaomeng. Whatever took you here, I hope you find something interesting. 
 
 
-## Links
+## Footprints
 [X](https://x.com/randomor): Where I post most of my public thoughts.
 
 ## Projects
 
 ### [[ZenJournal]]
-Where I rediscovered the joy of journaling by creating a minimalist app.
+Where I recreated a comfortable space to save my private thoughts.
 
 ### [[ZenMD]]
 The simplest way to turn a a folder of markdown into a site. 
