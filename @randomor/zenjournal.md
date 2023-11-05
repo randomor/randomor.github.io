@@ -9,7 +9,7 @@ It breaks away from the mold of traditional journaling apps:
 ## Key Features of ZenJournal
 
 1. **Unified Timeline**
-   - A centralized activity stream that seamlessly merges logging, hashtagging, and searching.
+   - A centralized log stream that seamlessly merges logging, hashtagging, and searching.
    - Smooth transitions between jotting down thoughts and reviewing past entries, with no distinct separation between tasks.
 
 2. **Instant Entry**
@@ -21,9 +21,9 @@ It breaks away from the mold of traditional journaling apps:
    - Share the essence of your journaling without compromising the privacy of your content.
 
 4. **Biometric Security**
-   - Secure your journal entries with the convenience and reliability of TouchID/FaceID.
+   - Secure your timeline with TouchID/FaceID.
 
-5. **Overview with Heatgraph**
+5. **10,000ft View with Heatgraph**
    - Visualize your journaling patterns and consistency with a 105-day heatgraph reflecting your activity.
 
 6. **Flexible #Hashtags**
@@ -37,8 +37,8 @@ It breaks away from the mold of traditional journaling apps:
    - Safeguard the continuity of your journal with straightforward backup and restore functionality.
    - Own your data: unzip the backup JSON file for complete control and the ability to manipulate your logs as you please.
 
-9. **One Tap to Everything**
-   - Access options to copy or share an entry with a single tap, whether it's a specific moment, an entire day, or sending it to your note-taking app, blog, or beyond.
+9. **Share to Anywhere**
+   - Copy or share an entry with a single tap, whether it's a specific moment, an entire day, or sending it to your note-taking app, blog, or beyond.
 
 10. **Dark & Light Modes**
     - Default Dark Mode offers a visually comfortable and focus-enhancing setting, with an easily accessible Light Mode for those who prefer it.
