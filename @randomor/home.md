@@ -4,7 +4,7 @@ I'm Shaomeng. Whatever took you here, I hope you find something interesting.
 
 
 ## Footprints
-[X](https://x.com/randomor): Where I post most of my public thoughts.
+[𝕏/@randomor](https://x.com/randomor): Where I post most of my public thoughts.
 
 ## Projects
 
