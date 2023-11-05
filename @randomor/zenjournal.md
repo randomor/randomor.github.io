@@ -2,19 +2,43 @@
 
 https://thezenjournal.com
 
-Being an avid journal writer when I was in college, I have the urge of getting back to journaling again, but none of the dozen journaling apps I've tried feel right, so I had to create this app.
+During my college days, a journal was my constant companion - a simple, private space for thoughts and memories. As life sped up, this ritual took a back seat. Seeking to revive the habit, I scoured the digital landscape for a journaling app that matched the uncluttered intimacy of the old notebooks. None did. Frustration turned to creation: I built ZenJournal, a minimalist's answer to digital journaling.
 
-This breaks a few mold in typical journaling apps, yet every decision feels natural and logical:
+It breaks away from the mold of traditional journaling apps:
 
-### No need to unlock to start typing. 
+## Key Features of ZenJournal
 
-Unlock with FaceID only when needed. Nothing should stop you from writing. Before you unlock the app, your timeline will just be hidden, all your past logs will be turning into "░░░" so no one can view your logs without unlocking, but 99.9% of the time it will just allow you to get to your thoughts faster, as there is no friction.
+1. **Unified Timeline**
+   - A centralized activity stream that seamlessly merges logging, hashtagging, and searching.
+   - Smooth transitions between jotting down thoughts and reviewing past entries, with no distinct separation between tasks.
 
-### No new entry button. 
+2. **Instant Entry**
+   - Launch the app and dive straight into logging or searching, with no hurdles or extra steps.
+   - Designed for swift and straightforward interactions, requiring no more than two taps to perform any action.
 
-Open the app, the keyboard is already focused on the text entry, you can start typing right away.
+3. **Discreet Mode for Privacy**
+   - Effortlessly toggle to a privacy mode that masks entries, enabling personal reflection even in public settings.
+   - Share the essence of your journaling without compromising the privacy of your content.
 
-### No tap to view a specific entry.
+4. **Biometric Security**
+   - Secure your journal entries with the convenience and reliability of TouchID/FaceID.
 
-### No dedicated search field
+5. **Overview with Heatgraph**
+   - Visualize your journaling patterns and consistency with a 105-day heatgraph reflecting your activity.
 
+6. **Flexible #Hashtags**
+   - Integrate hashtags organically into your entries without a dedicated field; just include a #hashtag anywhere.
+   - Simply tap a hashtag to instantly filter related entries.
+
+7. **Omnipresent Search**
+   - Start a search with ease by typing '?', fluidly switching from logging to searching and back to reflection.
+
+8. **Effortless Backup and Restore**
+   - Safeguard the continuity of your journal with straightforward backup and restore functionality.
+   - Own your data: unzip the backup JSON file for complete control and the ability to manipulate your logs as you please.
+
+9. **One Tap to Everything**
+   - Access options to copy or share an entry with a single tap, whether it's a specific moment, an entire day, or sending it to your note-taking app, blog, or beyond.
+
+10. **Dark & Light Modes**
+    - Default Dark Mode offers a visually comfortable and focus-enhancing setting, with an easily accessible Light Mode for those who prefer it.
