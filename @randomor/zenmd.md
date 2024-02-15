@@ -19,6 +19,30 @@ With ZenMD, it's now just two steps:
 1. `npx zenmd`
 2. `netlify deploy` or whatever static hosting platform.
 
+It transforms the following `@randomor` folder into the `dist` folder and properly link between them.
+
+```markdown
+├── @randomor
+│   ├── WonderWeave Press.md
+│   ├── assets
+│   │   └── digital_garden.webp
+│   ├── index.md
+│   ├── posts
+│   │   └── index.md
+│   ├── zenjournal.md
+│   └── zenmd.md
+└── dist
+	├── assets
+	│   └── digital_garden.webp
+	├── index.html
+	├── posts
+	│   └── index.html
+	├── sitemap.xml
+	├── wonderweave-press.html
+	├── zenjournal.html
+	└── zenmd.html
+```
+
 ## How is it different?
 Started looking around, yet, no tool does this combination of things:
 - With one command, transforms a folder of markdown files (usually takes more than a handful of steps).
