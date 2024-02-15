@@ -5,10 +5,10 @@
 ## What
 https://www.npmjs.com/package/zenmd
 
-A convention-over-configuration static site generator, eliminating all boilerplate and framework setup, requires no decisions or input from the user, freeing them to focus solely on writing and creating.
+A convention-over-configuration static site generator, eliminating all boilerplate and framework setup, requires no decisions or input from the user, freeing them to focus solely on their content.
 
 ## Who
-Crafted for the neurodivergent minimalist with ADHD, this simplifies the process, cutting through the clutter of decision-making and lengthy steps to one command.
+Crafted for the neurodivergent minimalist with ADHD/OCD, who can't remember all the reasons why config files can exceed the content.
 
 ## Why
 It is an attempt in answering: 
@@ -24,11 +24,13 @@ Started looking around, yet, no tool does this combination of things:
 - Supports images.
 - Allows custom layouts in multiple levels of directories.
 - Layout support any value from frontmatter.
+- Generates sitemap.xml
 
 ZenMD fills the gap above, and also opens up a few interesting workflows:
 - (Bring your own) BYO editor, note-taker
 	- Tested with simple Obsidian vaults, VS Code (with Markdown Notes extension), Bear Notes exports.
 - BYO static site host, Netlify, Vercel, or Cloudflare Pages
+- BYO favorite frontend framework, let interactive pages be complex, but leave the content pages pure. Just add `&& npx zenmd posts -o public/posts` to your existing build step. That's how I generated [this](https://thezenjournal.com) site for ZenJournal.
 - Back to the Future/Past, #nobuild, #noserver: 
 	- Preview the generated site by opening the `.html` pages directly, without an app server
 	- html layout editing without a build process

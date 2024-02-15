@@ -1,21 +1,14 @@
 ---
 title: IdealistSpace
 ---
-
 # Hi
-
 I'm Shaomeng. Whatever took you here, I hope you find something interesting. 
 
-## Footprints
-[𝕏/@randomor](https://x.com/randomor): Where I post most of my public thoughts.
+[[ZenJournal]]:
+_The fastest way to save your personal musings into a minimalistic journal._
 
-## Projects
+[[ZenMD]]: _The simplest way to turn a folder of markdown files into a site (like this one)._ 
 
-### [[ZenJournal]]
-The fastest way to put your personal musings into a minimalistic journal.
+[WonderWeave Press](https://wonderweave.idealistspace.com): _A collab between the kids, me and GPT, to generate children's books._
 
-### [[ZenMD]]
-The simplest way to turn a folder of markdown files into a site. 
-
-### [WonderWeave Press](https://wonderweave.idealistspace.com)
-A collab between the kids, me and GPT, to generate children's books.
+[𝕏/@randomor](https://x.com/randomor): _Where I post most of my public thoughts._

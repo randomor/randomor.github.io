@@ -2,7 +2,7 @@
 
 https://thezenjournal.com
 
-During my college days, a journal was my constant companion - a simple, private space for thoughts and memories. As life sped up, this ritual took a back seat. Seeking to revive the habit, I scoured the digital landscape for a journaling app that matched the uncluttered intimacy of the old notebooks. None did. Frustration turned to creation: I built ZenJournal, a minimalist's answer to digital journaling.
+During my college days, a journal was my constant companion - a simple, private space for thoughts and memories. As life sped up, this ritual took a back seat. Seeking to revive the habit, I searched for a journaling app that matched the uncluttered intimacy of the old notebooks. None did. Frustration turned to creation: I built ZenJournal, a minimalist's answer to digital journaling.
 
 It breaks away from the mold of traditional journaling apps:
 
