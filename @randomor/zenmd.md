@@ -15,6 +15,10 @@ It is an attempt in answering:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How many steps does it take to publish markdown to a simple static blog with images and links between pages? 10? 20? Why not less than 5?</p>&mdash; Shao | 少蒙 (@randomor) <a href="https://twitter.com/randomor/status/1713069918252675531?ref_src=twsrc%5Etfw">October 14, 2023</a></blockquote> 
 
+With ZenMD, it's now just two steps:
+1. `npx zenmd`
+2. `netlify deploy` or whatever static hosting platform.
+
 ## How is it different?
 Started looking around, yet, no tool does this combination of things:
 - With one command, transforms a folder of markdown files (usually takes more than a handful of steps).
@@ -22,6 +26,7 @@ Started looking around, yet, no tool does this combination of things:
 - Supports internal links: `[another page](./another-link.md)`
 - Supports wiki links: `[[another page]]`
 - Supports images.
+- Support dark/light mode with default layout.
 - Allows custom layouts in multiple levels of directories.
 - Layout support any value from frontmatter.
 - Generates sitemap.xml
