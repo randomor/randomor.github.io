@@ -73,5 +73,4 @@ ZenMD fills the gap above, and also opens up a few interesting workflows:
 
 ## Footnotes
 [^1]: Accidental complexity refers to complexity in software that arises from the tools or methods used, unlike essential complexity, which stems from the inherent demands of the problem itself. Accidental complexity is often considered avoidable or reducible. Just take a look at this default generated next.js app, you won't remember why 90% of these files are there in 5 years.
-
 <img src="./assets/accidental-complexity.png" width="200">
