@@ -5,7 +5,7 @@
 ## What
 https://www.npmjs.com/package/zenmd
 
-A convention-over-configuration static site generator, eliminating all boilerplate and framework setup, requires no decisions or input from the user, freeing them to focus solely on their content.
+A convention-over-configuration static site generator, eliminating all boilerplate and framework setup (i.e.: accidental complexity [^1]), requires no decisions or input from the user, freeing them to focus solely on their content.
 
 ## Who
 Crafted for the neurodivergent minimalist with ADHD/OCD, who can't remember all the reasons why config files can exceed the content.
@@ -69,3 +69,9 @@ ZenMD fills the gap above, and also opens up a few interesting workflows:
 - Allow anyone to quickly transform their directory of markdown knowledge base or personal note vault into a digital garden.
 - Create a simple wiki, using wiki links and GitHub as the CMS.
 - For anyone to create a site in 30 seconds, using their existing markdown content.
+
+
+## Footnotes
+[1]: Accidental complexity refers to complexity in software that arises from the tools or methods used, unlike essential complexity, which stems from the inherent demands of the problem itself. Accidental complexity is often considered avoidable or reducible.
+
+<img src="./assets/accidental-complexity.png" width="200">
