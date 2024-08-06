@@ -12,3 +12,5 @@ _The fastest way to save your personal musings into a minimalistic journal._
 [WonderWeave Press](https://wonderweave.idealistspace.com): _A collab between the kids, me and GPT, to generate children's books._
 
 [𝕏/@randomor](https://x.com/randomor): _Where I post most of my public thoughts._
+
+[[Work Stack]] _Things that help me work_
