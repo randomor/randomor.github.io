@@ -1,4 +1,4 @@
-# ZenShelf
+# How I created ZenShelf with AI
 
 ## Why another book tracker app?
 
