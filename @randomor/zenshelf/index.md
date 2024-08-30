@@ -10,7 +10,7 @@ As I rediscovered my love for reading, I sought a way to manage my library. I tr
 
 These apps felt overwhelming, with screens full of empty lists, categories, trackers, timers, and persistent subscription popups. Yet, something still seemed to be missing.
 
-One Sunday night, I stumbled upon [OpenLibrary](https://openlibrary.org/) and their book search API. The next day, I asked Claude to create an iOS app featuring a grid of book covers and an ISBN camera scanner. Within an hour, I was using my phone to scan ISBN barcodes into a grid of books – it already felt useful.
+Last Sunday night, I stumbled upon [OpenLibrary](https://openlibrary.org/) and their book search API. The next day, I asked Claude to create an iOS app featuring a grid of book covers and an ISBN camera scanner. Within an hour, I was using my phone to scan ISBN barcodes into a grid of books – it already felt useful.
 
 ![i like to start from sketch](./assets/zenshelf-initial-design.jpeg)
 
@@ -21,6 +21,8 @@ Over the next two days, I collaborated with ChatGPT [^1] to generate the perfect
 When I shared the progress with my kids, they loved it and were eager to start using it to track their reading. Now, I'm motivated to get it on TestFlight and eventually ship this app.
 
 ## Where are we now?
+
+![zenshelf main screen now](./assets/zenshelf-v1-main-screen.jpeg)
 
 After a few more days of intense collaboration with Cursor and Claude, we now have an app that:
 - Sports a great icon [^2].
