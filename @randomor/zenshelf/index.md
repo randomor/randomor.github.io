@@ -2,7 +2,7 @@
 
 ## Why another book tracker app?
 
-Goodreads has remained stagnant for a decade since Amazon's acquisition. LibraryThing is losing momentum, feeling like an old, neglected bookshelf. [Douban](https://douban.com), which could have been LibraryThing's modern counterpart with its sleek website design and native apps, became unusable due to China's internet identity system restrictions.
+Over the past decade, Goodreads has barely changed since Amazon bought it. LibraryThing, while packed with features and an impressive book catalog, feels outdated, particularly on mobile. I used to love [Douban](https://douban.com), a Chinese platform that could have been a modern alternative to LibraryThing with its slick design and native apps. Sadly, it's no longer accessible due to China's strict internet identity rules.
 
 As I rediscovered my love for reading, I sought a way to manage my library. I tried all the apps below.
 
