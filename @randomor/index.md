@@ -4,6 +4,9 @@ title: IdealistSpace
 # Hi
 I'm Shaomeng. Whatever took you here, I hope you find something interesting. 
 
+[[ZenShelf]]: 
+My latest joy project. A minimal bookshelf to track reading.
+
 [[ZenJournal]]:
 _The fastest way to save your personal musings into a minimalistic journal._
 
