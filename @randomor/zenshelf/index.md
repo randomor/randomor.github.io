@@ -24,25 +24,24 @@ When I shared the progress with my kids, they loved it and were eager to start u
 
 ![zenshelf main screen now](./assets/zenshelf-preview.png)
 
-After a few more days of intense collaboration with Cursor and Claude, we now have an app that:
+After collaborating with Cursor and Claude, the app now offers:
 
-- Sports a great icon [^2].
-- Allows book adds by title, author, or ISBN, barcode scanning, and batch imports from GoodReads.
-- Opens to a grid of book covers with three sections: reading, to read, and done.
-- Features an immersive book cover view, when you tap into a book, where you can leave a text review as well.
-- Easily share your shelf or book review with a screenshot.
-- Enables marking books with different statuses via long-press on the covers.
-- Includes a book rating feature.
-
-- Offers shelf search functionality.
-- Provides export options for your bookshelf in CSV or JSON format.
-- Allows for bookshelf reset to start anew.
-- Supports both iPhone and iPad.
-- Syncs across devices via iCloud.
+- A sleek icon [^2]
+- Book addition via title, author, ISBN, barcode scanning, and GoodReads import
+- Cover grid with reading, to-read, and done sections
+- Immersive book view with review feature
+- Screenshot sharing for shelves and reviews
+- Long-press status changes and book rating
+- Shelf search and export (CSV/JSON)
+- Bookshelf reset option
+- iPhone and iPad support
+- iCloud sync
 
 ### What's missing
 
-There's no way to add books without ISBNs or those not catalogued by OpenLibrary. However, this presents an opportunity to contribute to OpenLibrary – create an account, upload your cover there, and then import your books. We will be adding a way to manually add your own book and upload your book cover directly in the future.
+The app currently lacks any onboarding features, but I'm hoping the interface is intuitive enough for users to get started without much guidance.
+
+There's no way to add books without ISBNs or those not catalogued by OpenLibrary. However, this presents an opportunity to contribute to OpenLibrary – create an account, upload your cover there, and then import your books. We will be adding a way to manually add your own book and upload book cover directly in the future.
 
 The app doesn't have a paywall or subscription. I need to research the market more to determine the best revenue model.
 
