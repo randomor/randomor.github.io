@@ -49,6 +49,10 @@ The app doesn't have a paywall or subscription. I need to research the market mo
 
 If you're a book lover looking to maintain a private digital bookshelf, you can help by installing ZenShelf via TestFlight and giving it a spin.
 
+## Who am I?
+
+I'm [a builder](/) with a passion for simplifying things. I've also created a minimalist journaling app called [[ZenJournal]].
+
 ## Footnotes
 
 [^1]: The prompt was along the lines of "create a minimalist brand mark icon for a bookshelf app called ZenShelf," followed by requests for more options until finding the right one.
