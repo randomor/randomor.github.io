@@ -39,11 +39,9 @@ After collaborating with Cursor and Claude, the app now offers:
 
 ### What's missing
 
-The app currently lacks any onboarding features, but I'm hoping the interface is intuitive enough for users to get started without much guidance.
+The app currently lacks much onboarding features, but I'm hoping the interface is intuitive enough for users to get started without much guidance.
 
 There's no way to add books without ISBNs or those not catalogued by OpenLibrary. However, this presents an opportunity to contribute to OpenLibrary – create an account, upload your cover there, and then import your books. We will be adding a way to manually add your own book and upload book cover directly in the future.
-
-The app doesn't have a paywall or subscription. I need to research the market more to determine the best revenue model.
 
 ## What's next?
 
@@ -51,7 +49,7 @@ If you're a book lover looking to maintain a private digital bookshelf, you can 
 
 ## Who am I?
 
-I'm [a builder](/) with a passion for simplifying things. I've also created a minimalist journaling app called [[ZenJournal]].
+I'm [a builder](/) with an obsession for simplicity. I've also created a minimalist journaling app called [[ZenJournal]].
 
 ## Footnotes
 
