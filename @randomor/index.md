@@ -4,8 +4,11 @@ title: IdealistSpace
 # Hi
 I'm Shaomeng. Whatever took you here, I hope you find something interesting. 
 
+[DoubleMemory](https://doublememory.com/)
+_Latest project. Not a clipboard manager._
+
 [ZenShelf](./zenshelf/index.md): 
-_Latest project. A minimalist bookshelf._
+_Unpromoted fun project. A minimalist bookshelf._
 
 [[ZenPod]]
 Still WIP. An attempt to replace Overcast.
