@@ -10,15 +10,13 @@ As I rediscovered my love for reading, I sought a way to manage my library. I tr
 
 These apps felt overwhelming, with screens full of empty lists, categories, trackers, timers, and persistent subscription popups. Yet, something still seemed to be missing.
 
-On a Sunday night, I stumbled upon [OpenLibrary](https://openlibrary.org/) and their book search API. The next day, I asked Claude to create an iOS app featuring a grid of book covers and an ISBN camera scanner. Within an hour, I was using my phone to scan ISBN barcodes into a grid of books – it already felt useful.
+On a Sunday night, I stumbled upon [OpenLibrary](https://openlibrary.org/) and their book search API. The next day, I asked Claude to create an iOS app featuring a grid of book covers and an ISBN camera scanner. Within an hour, I was using my phone to scan ISBN barcodes into a grid of books – it already felt useful. Since then, we had to move away from OpenLibrary because it experienced a long DDoS attack and we have been using Google Books API which has a bigger catalog as well.
 
 ![i like to start from sketch](./assets/zenshelf-initial-design.jpeg)
 
 Over the next two days, I collaborated with ChatGPT [^1] to generate the perfect icon. This process led me to the middle row below. I created v4 using Figma, but after seeing it on my phone, I realized it had too many details. Eventually, I arrived at v5.
 
 ![icon evolution](./assets/zenshelf-icons-evolution.jpeg)
-
-When I shared the progress with my kids, they loved it and were eager to start using it to track their reading. Now, I'm motivated to get it on TestFlight and eventually ship this app.
 
 ## Where are we now?
 
@@ -41,11 +39,11 @@ After collaborating with Cursor and Claude, the app now offers:
 
 The app currently lacks much onboarding features, but I'm hoping the interface is intuitive enough for users to get started without much guidance.
 
-There's no way to add books without ISBNs or those not catalogued by OpenLibrary. However, this presents an opportunity to contribute to OpenLibrary – create an account, upload your cover there, and then import your books. We will be adding a way to manually add your own book and upload book cover directly in the future.
+There's no way to add books without ISBNs or those not catalogued by Google Books (the book search API we use). We will be adding a way to manually add your own book and upload book cover directly in the future.
 
-## What's next?
+## Get ZenShelf...
 
-If you're a book lover looking to maintain a private digital bookshelf, you can help by installing ZenShelf via TestFlight and giving it a spin.
+If you're a book lover looking to maintain a private digital bookshelf, ZenShelf is now available on [App Store](https://apps.apple.com/us/app/zenshelf/id6670147622). If you enjoy the app, feel free to leave a review. If you feel the app is still lacking, feel free to let me know. Just no page tracking, no social and collaborative features requests, no built-in pomodoro timer, we'd like to keep it focused and useful for now.
 
 ## Who am I?
 
