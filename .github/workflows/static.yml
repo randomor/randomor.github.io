@@ -34,7 +34,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build Pages
-        run: npx zenmd @randomor --force=true
+        run: npx zenmd @randomor --force=true --base=https://idealistspace.com
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
