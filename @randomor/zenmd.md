@@ -1,6 +1,6 @@
 ![Zen Digital Garden](./assets/digital_garden.webp)
 
-# ZenMD
+# ZenMD: Markdown to Site in One Command
 
 ## What
 
