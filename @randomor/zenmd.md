@@ -1,4 +1,4 @@
-![Zen Digital Garden](./assets/digital_garden.png){#hero-image .bleed}
+![Zen Digital Garden](./assets/digital_garden.png){.bleed}
 
 # ZenMD: Markdown to Site in One Command
 
@@ -55,7 +55,7 @@ Started looking around, yet, no tool does this combination of things:
 - No extra config, no fluff and distractions that's not content.
 - Supports internal links: `[another page](./another-link.md)`
 - Supports wiki links: `[[another page]]`
-- Supports images.
+- Supports images, and custom attributes like `![image](./path-to-image.png){#hero-image .bleed width=300}`
 - Support dark/light mode with default layout.
 - Allows custom layouts in multiple levels of directories.
 - Layout support any value from frontmatter.
