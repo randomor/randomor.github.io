@@ -7,7 +7,7 @@ title: IdealistSpace
 I'm Shaomeng. Whatever took you here, I hope you find something interesting.
 
 [DoubleMemory](https://doublememory.com/)
-_Latest project. Not a clipboard manager._
+_Latest project. A bookmarking app_
 
 [[ZenShelf]]:
 _A minimalist bookshelf._
